@@ -2,18 +2,28 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
-        System.out.print("Hello");
-        System.out.print("World!");
+//        System.out.print("Hello");
+//        System.out.print("World!");
 
 
         int myFavoriteNumber = 28;
 
-        System.out.println("myFavoriteNumber");
+        System.out.println(myFavoriteNumber);
 
 
         String myString = "Oscar Molina";
 
-        System.out.println("myString");
+        System.out.println(myString);
+
+        long myNumber;
+
+        myNumber = 123L;
+
+//        myNumber = (float)3.14;
+
+        System.out.println(myNumber);
+
+
 
 
         int x = 5;
@@ -35,6 +45,7 @@ public class HelloWorld {
 //        Object o = theNumberThree;
 //        int three = (int) o;
 
+//        System.out.println(three);
 
 
 
