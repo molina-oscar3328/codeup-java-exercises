@@ -21,6 +21,18 @@ public class HelloWorld {
         System.out.println(++y);
         System.out.println(y);
 
+/* this reads as "not a statement" once you try to call it in the console */
+
+//        int class = "full stack";
+//
+//        System.out.println("class");
+
+
+//        String theNumberThree = "three";
+//        Object o = theNumberThree;
+//        int three = (int) o;
+
+
 
 
     }
