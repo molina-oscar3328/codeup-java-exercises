@@ -48,6 +48,13 @@ public class HelloWorld {
 //        System.out.println(three);
 
 
+        int myInt = 42;
+        Integer myInteger = 42;
+
+        System.out.println(myInt);
+        System.out.println(myInteger);
+
+
 
     }
 }
