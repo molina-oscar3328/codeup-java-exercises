@@ -5,12 +5,18 @@ public class ConsoleExercises {
 
 //        System.out.println("Hello World");
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner myScannerObj = new Scanner(System.in);
 
-        System.out.print("Enter something: ");
-        String userInput = scanner.next();
+       String callSign = "Molina";
+       String coName = "Bravo";
+       String names = "all my co-workers from that company.";
+       System.out.printf("This is, %S I was in %S company many years ago to this day I miss %s %n",callSign, coName, names);
 
-        System.out.println("You entered: --> \"" + userInput + "\" <--");
+        Scanner myScannerObject = new Scanner(System.in);
+        System.out.println("Would you like to play a game with me today?");
+        System.out.println("Hello there I really want to but I have to do some laundry and clean my car today maybe after I'm done I can join you in a game what do you say?");
+
+
 
 
     }
