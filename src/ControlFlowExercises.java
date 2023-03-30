@@ -72,6 +72,7 @@ public class ControlFlowExercises {
 
         for (int i = 1; i <= userNum ; i++) {
             System.out.printf("%7d|%9d|%6d\n", i, i * i, i * i * i);
+
         }
 
         
