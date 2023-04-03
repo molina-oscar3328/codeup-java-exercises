@@ -40,6 +40,10 @@ package OopLecture;
             System.out.println(danielasFocus.turnOn());
 
             System.out.println(anthonysHummer.turnOn());
+
+
+
+
         }
 
     }
