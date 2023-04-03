@@ -5,6 +5,9 @@ public class ConsoleExercises {
 
 //        System.out.println("Hello World");
 
+        double pi = 3.14159;
+        System.out.printf("The value of pi is around %.2f %n", pi);
+
         Scanner myScannerObj = new Scanner(System.in);
 
        String callSign = "Molina";
