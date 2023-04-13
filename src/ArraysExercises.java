@@ -30,7 +30,7 @@ public class ArraysExercises {
 //        }
 
 
-        addPerson(people, new Person("test));
+//        addPerson(people, new Person("test));
 
 
 
