@@ -7,8 +7,9 @@ public class Greeting {
     }
 
     public static void main(String[] args) {
-        greet("Alice", 25, "New York");
-        greet("Bob", 32, "Los Angeles");
+        greet("Rebecca", 30, "Salt Lake City");
+        greet("Eric", 45, "Phoenix ");
     }
+
 }
 
